@@ -1,0 +1,6 @@
+name: DuoMFA
+author: Tanner Embry (SnowGears)
+description: Add Duo MFA to users or admins logging into your server.
+version: 1.0.0
+api-version: 1.16
+main: com.snowgears.duomfa.DuoMFA

@@ -1,0 +1,10 @@
+
+# =================================================================== #
+#                            DUO SETTINGS                             #
+# =================================================================== #
+
+# Go into Duo.com account and protect a new Auth API application
+# Place the generated values into here
+ikey: DI2TV9PF2H8TYD7DMLLU
+skey: mFZiIkRjkYutAu1QKBmFuy0OBOjkTELbOKgTyuYx
+apihost: api-bd733728.duosecurity.com
